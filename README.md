@@ -574,6 +574,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 ## Frameworks
 
+- **[MCP Production Kit](https://github.com/A7mdMe/mcp-production-kit)** - Production-ready, type-safe TypeScript MCP server boilerplate with dual transports (stdio/SSE), SSRF security guards, in-memory state persistence, and MCP Doctor diagnostic linter
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
